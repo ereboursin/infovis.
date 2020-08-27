@@ -6,7 +6,7 @@ W32:
 https://ereboursin.github.io/infovis./w32_ereboursin.html
 
 W33:
-https://public.tableau.com/shared/9QXQRZYB5?:display_count=y&:origin=viz_share_link
+https://public.tableau.com/views/w33_15979484093830/Dashboard1?:language=es&:display_count=y&:origin=viz_share_link
 
 Trabajo Final: 
 https://ereboursin.github.io/infovis./WhastappRecibidos.html
